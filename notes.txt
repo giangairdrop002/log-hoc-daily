@@ -1,0 +1,105 @@
+Tôi hoàn thành cấu hình Git Actions cơ bản.
+Tôi tìm hiểu về Docker Compose.
+Tôi thêm ESLint vào dự án React.
+Tôi cấu trúc lại directory để tiện bảo trí.
+Tôi đọc tài liệu về S.O.L.I.D principles.
+Tôi thêm Jest để kiểm unit test.
+Tôi hoàn thành migration cơ sở dữ liệu bằng Laravel.
+Tôi khắc phục lỗi CORS khi gọi API.
+Tôi tích hợp JWT authentication.
+Tôi cấu hình .htaccess để đóng cache.
+Tôi hoàn tất CRUD bằng ExpressJS.
+Tôi tìm hiểu về pagination tại phía backend.
+Tôi thêm validation bằng celebrate.
+Tôi hoàn thành một custom Hook tại React.
+Tôi khắc phục lỗi build ở Vercel.
+Tôi tìm hiểu về CSRF.
+Tôi thêm refresh token vào Auth flow.
+Tôi hoàn thành đăng nhập bằng GitHub OAuth.
+Tôi khắc phục lỗi “Too many requests”.
+Tôi tìm hiểu về Throttle Middleware.
+Tôi hoàn tất pagination phía frontend bằng React.
+Tôi cấu trúc lại dịch vụ phía backend.
+Tôi hoàn tất upload ảnh bằng AWS S3.
+Tôi thêm cache bằng Redis.
+Tôi tìm hiểu về socket.io để gửi messages real-time.
+Tôi hoàn thành UI bằng Material UI.
+Tôi tìm cách tối ưu truy xuất cơ sở dữ liệu.
+Tôi thêm pagination tại phía MySQL bằng LIMIT, OFFSET.
+Tôi hoàn tất tìm kiếm bằng Full-Text Search.
+Tôi khắc phục lỗi N+1 Query bằng eager loading.
+Tôi tìm hiểu về Index tại MySQL.
+Tôi hoàn tất backup cơ sở dữ liệu bằng mysqldump.
+Tôi thêm Cronjob để gửi email thông báo.
+Tôi hoàn tất config CORS tại Nginx.
+Tôi khắc phục lỗi 502 Bad Gateway.
+Tôi tìm hiểu về Cloudflare Proxy.
+Tôi hoàn tất HTTPS bằng Let's Encrypt.
+Tôi thêm Security Headers bằng Nginx.
+Tôi hoàn tất reverse proxy bằng Nginx.
+Tôi khắc phục lỗi "File permission" tại Linux.
+Tôi thêm "tail -f" để xem trực tiếp log.
+Tôi hoàn tất cấu hình pm2 khởi động cùng hệ thống.
+Tôi hoàn tất config Dockerfile multi-stage.
+Tôi thêm health check tại Compose.
+Tôi hoàn tất CI pipeline bằng Git Actions.
+Tôi khắc phục lỗi permissions bằng chown.
+Tôi hoàn tất backup bằng tar.gz.
+Tôi tìm hiểu về scp để transfer files.
+Tôi hoàn tất khởi tạo repository Git.
+Tôi thêm Git Hook kiểm code trước khi commit.
+Tôi hoàn tất config .gitignore.
+Tôi khắc phục conflict bằng rebase.
+Tôi hoàn tất squash commits trước khi merge.
+Tôi tìm hiểu về "cherry-pick" tại Git.
+Tôi hoàn tất cấu trúc monorepo.
+Tôi khắc phục lỗi submodule.
+Tôi hoàn tất release bằng Git Tag.
+Tôi tìm hiểu về Semantic Version.
+Tôi hoàn tất Changelog.md.
+Tôi thêm badges vào README.
+Tôi hoàn tất config Dependabot.
+Tôi khắc phục lỗi dịch dependency.
+Tôi hoàn tất Lighthouse kiểm SEO.
+Tôi khắc phục lỗi Lighthouse "Performance".
+Tôi hoàn tất lazy loading ảnh.
+Tôi tìm hiểu về srcset.
+Tôi hoàn tất config Webpack split code.
+Tôi khắc phục lỗi cache bằng cache-busting.
+Tôi hoàn tất code-splitting tại React.
+Tôi hoàn tất tree-shaking.
+Tôi khắc phục lỗi Source map.
+Tôi hoàn tất minify bằng Terser.
+Tôi hoàn tất build bằng Rollup.
+Tôi tìm hiểu về Vite.
+Tôi hoàn tất HMR tại Vite.
+Tôi khắc phục lỗi HMR không refresh.
+Tôi hoàn tất cấu trúc plugin tại Vite.
+Tôi hoàn tất SSR bằng NextJS.
+Tôi khắc phục lỗi hydration tại NextJS.
+Tôi hoàn tất Static Generation.
+Tôi hoàn tất API route tại NextJS.
+Tôi khắc phục CORS tại API route.
+Tôi hoàn tất ISR (Incremental Static Regeneration).
+Tôi hoàn tất prerender bằng `getStaticProps`.
+Tôi hoàn tất server-side bằng `getServerSideProps`.
+Tôi hoàn tất Middleware tại NextJS.
+Tôi khắc phục lỗi routing động.
+Tôi hoàn tất fallback route.
+Tôi hoàn tất SEO bằng Head.
+Tôi hoàn tất metadata tại NextJS.
+Tôi khắc phục lỗi `next/image`.
+Tôi hoàn tất Image Optimization.
+Tôi hoàn tất Loading UI bằng Suspense.
+Tôi khắc phục lỗi Suspense fallback.
+Tôi hoàn tất Stream SSR.
+Tôi hoàn tất cache tại React Query.
+Tôi hoàn tất pagination tại React Query.
+Tôi khắc phục lỗi Stale Data.
+Tôi hoàn tất useQuery, useMutation.
+Tôi hoàn tất invalidate cache.
+Tôi hoàn tất optimistic UI.
+Tôi hoàn tất form bằng React Hook Form.
+Tôi hoàn tất validation bằng Zod.
+Tôi hoàn tất submit bằng handleSubmit.
+Tôi khắc phục lỗi validation phía client.
