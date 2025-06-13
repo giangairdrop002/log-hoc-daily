@@ -1,3 +1,3 @@
 # Dev Note - 2025-06-13
 
-Tôi khắc phục lỗi Stale Data.
+Tôi hoàn tất release bằng Git Tag.
